@@ -47,6 +47,6 @@ def main():
 		
 		if quit == 'q':
 			break
-
-
-main()
+			
+if __name__ == '__main__':
+    main()
